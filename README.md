@@ -5,9 +5,10 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; I'm studying Electronics and Communication at Yıldız Technical University.
-- 🎓 &nbsp;I am studying software technologies at Ecole 42, an international software school.
-- 🌱 &nbsp; Expert in C programming
+- 🤔 &nbsp; I am a Full-stack Shopify Developer. (Developing Shopify Theme, App)
+- 🎓 &nbsp; I'm graduated Electronics and Communication at Yıldız Technical University.
+- 🎓 &nbsp;I am graduated software technologies at Ecole 42, an international software school.
+- 🌱 &nbsp; Expert in JS, C/C++ programming
 - ✍️ &nbsp; I am a web programming and mobile application developer.
 
 
