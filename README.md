@@ -45,11 +45,4 @@
 
 <br/>
 
-<a href="https://github.com/ArifEmreKocoglu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArifEmreKocoglu&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifEmreKocoglu&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
 <sub>Also exploring embedded systems with <b>C/C++</b> (e.g., STM32/Arduino) — just a bit on the side.</sub>
